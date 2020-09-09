@@ -31,6 +31,7 @@ Currently, only BMP 24-bit format is supported.
   <img src="./images/marble-edges.bmp" alt="edge filter applied example" width="400" style="float:left;"> 
 </p>
 
+<br><br>
 * Applying grayscale
 ```sh
     $ filter -g stone.bmp stone-bw.bmp
