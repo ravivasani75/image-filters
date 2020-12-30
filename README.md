@@ -12,7 +12,7 @@ Currently, only BMP 24-bit format is supported.
 
 ## Usage
 ```sh
-    $ filter [-flag] infile outfile
+    $ filter <flag> <infile> <outfile>
     flag:
     -b  Blur image
     -g  Convert image into black and white format
